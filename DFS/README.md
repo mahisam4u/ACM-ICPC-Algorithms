@@ -32,3 +32,5 @@ Repeat this process until the stack is empty. However, ensure that the nodes tha
             if w is not visited:
                 DFS-recursive(G, w)
 ```
+
+#my changes.
